@@ -15,7 +15,7 @@ Synchronous Reference Frame Phase Lock Loop
 The basic structure of phase-locked loop that is observed inthe figure :
 
 <p align="center">
-  <img src="https://1oomzzme3s617r8yzr8qutjk-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/Fig-1-PLL-model.jpg" width="250"/>
+  <img src="https://1oomzzme3s617r8yzr8qutjk-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/Fig-1-PLL-model.jpg" width="550"/>
 </p>
 
 Capstone Project - The Battle of Neighborhoods (Week 2)
@@ -23,6 +23,6 @@ Capstone Project - The Battle of Neighborhoods (Week 2)
 The  most  common  methods  for  synchronizing  networksproposed  in  the  literature  are,  open  loop  model  system  suchas filters, but these model system do not work correctly whenthe system is unbalanced in voltage source (Voltage)
 
 <p align="center">
-  <img src="https://www.researchgate.net/profile/Saeed_Golestan/publication/311467820/figure/fig1/AS:442064224690176@1482407732450/Schematic-diagram-of-the-conventional-SRF-PLL.png" width="250"/>
+  <img src="https://www.researchgate.net/profile/Saeed_Golestan/publication/311467820/figure/fig1/AS:442064224690176@1482407732450/Schematic-diagram-of-the-conventional-SRF-PLL.png" width="550"/>
 </p>
 
